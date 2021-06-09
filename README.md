@@ -1,16 +1,15 @@
 # EDA-on-Zomato-bangalore
 
-Overview
+# Overview
 The objective of this project is to for CRISP-DM Process while providing data solution.
 
 The CRISP-DM Process (Cross Industry Process for Data Mining) can be summarised as:
 
-Business Understanding
-Data Understanding
-Prepare Data
-Data Modeling
-Evaluate the Results
-Deploy
+1.Business Understanding
+2.Data Understanding
+3.Prepare Data
+4.Data Modeling
+5.Evaluate the Results
 We will follow below steps to do that:
 
 Pick a dataset.
